@@ -8,4 +8,8 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SpatialAwareness.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
-  m_configObjects: {}
+  m_configObjects:
+    Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: b67801e8dc27986469db8a9b7c8e8d86,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 56951568ad9ee0844af50a3567ff85e5,
+      type: 2}

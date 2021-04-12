@@ -1,5 +1,11 @@
 {
   "dependencies": {
+    "com.microsoft.mixedreality.toolkit.examples": "file:MixedReality/com.microsoft.mixedreality.toolkit.examples-2.6.1.tgz",
+    "com.microsoft.mixedreality.toolkit.extensions": "file:MixedReality/com.microsoft.mixedreality.toolkit.extensions-2.6.1.tgz",
+    "com.microsoft.mixedreality.toolkit.foundation": "file:MixedReality/com.microsoft.mixedreality.toolkit.foundation-2.6.1.tgz",
+    "com.microsoft.mixedreality.toolkit.standardassets": "file:MixedReality/com.microsoft.mixedreality.toolkit.standardassets-2.6.1.tgz",
+    "com.microsoft.mixedreality.toolkit.tools": "file:MixedReality/com.microsoft.mixedreality.toolkit.tools-2.6.1.tgz",
+    "com.microsoft.windows.mixedreality.dotnetwinrt": "file:MixedReality/com.microsoft.windows.mixedreality.dotnetwinrt-0.5.1052.tgz",
     "com.unity.collab-proxy": "1.2.16",
     "com.unity.ide.rider": "1.1.4",
     "com.unity.ide.vscode": "1.2.3",
@@ -7,6 +13,8 @@
     "com.unity.textmeshpro": "2.1.4",
     "com.unity.timeline": "1.2.18",
     "com.unity.ugui": "1.0.0",
+    "com.unity.xr.management": "4.0.1",
+    "com.unity.xr.windowsmr": "2.6.1",
     "com.unity.modules.ai": "1.0.0",
     "com.unity.modules.androidjni": "1.0.0",
     "com.unity.modules.animation": "1.0.0",
@@ -37,12 +45,6 @@
     "com.unity.modules.video": "1.0.0",
     "com.unity.modules.vr": "1.0.0",
     "com.unity.modules.wind": "1.0.0",
-    "com.unity.modules.xr": "1.0.0",
-    "com.microsoft.mixedreality.toolkit.examples": "file:MixedReality\/com.microsoft.mixedreality.toolkit.examples-2.6.1.tgz",
-    "com.microsoft.mixedreality.toolkit.extensions": "file:MixedReality\/com.microsoft.mixedreality.toolkit.extensions-2.6.1.tgz",
-    "com.microsoft.mixedreality.toolkit.foundation": "file:MixedReality\/com.microsoft.mixedreality.toolkit.foundation-2.6.1.tgz",
-    "com.microsoft.mixedreality.toolkit.tools": "file:MixedReality\/com.microsoft.mixedreality.toolkit.tools-2.6.1.tgz",
-    "com.microsoft.windows.mixedreality.dotnetwinrt": "file:MixedReality\/com.microsoft.windows.mixedreality.dotnetwinrt-0.5.1052.tgz",
-    "com.microsoft.mixedreality.toolkit.standardassets": "file:MixedReality\/com.microsoft.mixedreality.toolkit.standardassets-2.6.1.tgz"
+    "com.unity.modules.xr": "1.0.0"
   }
 }
