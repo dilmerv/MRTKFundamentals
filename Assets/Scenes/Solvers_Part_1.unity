@@ -4245,8 +4245,8 @@ MonoBehaviour:
   DirectionalTarget: {fileID: 295878159}
   MinIndicatorScale: 0.1
   MaxIndicatorScale: 1
-  VisibilityScaleFactor: 0.8
-  ViewOffset: 0.3
+  VisibilityScaleFactor: 0.6
+  ViewOffset: 0.2
 --- !u!114 &635146799
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6007,7 +6007,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6c6e1a27cae323340be5bd1f89ba3498, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  targetObject: {fileID: 945151409}
+  targetObject: {fileID: 1382310881}
 --- !u!1 &974734421
 GameObject:
   m_ObjectHideFlags: 0
@@ -6229,8 +6229,8 @@ MonoBehaviour:
   DirectionalTarget: {fileID: 295878159}
   MinIndicatorScale: 0.1
   MaxIndicatorScale: 1
-  VisibilityScaleFactor: 0.8
-  ViewOffset: 0.3
+  VisibilityScaleFactor: 0.6
+  ViewOffset: 0.2
 --- !u!114 &1031964539
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -10062,8 +10062,8 @@ MonoBehaviour:
   referenceDirection: 1
   minDistance: 0.5
   maxDistance: 1
-  minViewDegrees: 10
-  maxViewDegrees: 20
+  minViewDegrees: 5
+  maxViewDegrees: 10
   aspectV: 1
   ignoreAngleClamp: 0
   ignoreDistanceClamp: 0
@@ -10086,7 +10086,7 @@ MonoBehaviour:
   trackedHandness: 3
   trackedHandJoint: 2
   transformOverride: {fileID: 0}
-  additionalOffset: {x: 0, y: 0, z: 0}
+  additionalOffset: {x: 0, y: 0, z: 0.5}
   additionalRotation: {x: 0, y: 0, z: 0}
   updateSolvers: 1
 --- !u!1 &1590854883736219
