@@ -82,7 +82,7 @@ MonoBehaviour:
   ModelFingerPointing: {x: -1, y: 0, z: 0}
   ModelPalmFacing: {x: 0, y: 1, z: 0}
   handRenderer: {fileID: 705926914935427299}
-  handMaterial: {fileID: 2100000, guid: 45082b98567b3d44ca3bdbe39f46041a, type: 2}
+  handMaterial: {fileID: 2100000, guid: 46180a965b426614f97a7239d1248a1a, type: 2}
 --- !u!1001 &705926914946898755
 PrefabInstance:
   m_ObjectHideFlags: 0
