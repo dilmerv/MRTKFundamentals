@@ -764,7 +764,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &158207803
 Transform:
   m_ObjectHideFlags: 0
@@ -4094,7 +4094,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &610923177
 Transform:
   m_ObjectHideFlags: 0
@@ -5269,7 +5269,7 @@ Transform:
   m_Children:
   - {fileID: 295878159}
   m_Father: {fileID: 0}
-  m_RootOrder: 4
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &853888661
 GameObject:
@@ -6586,7 +6586,7 @@ Transform:
   - {fileID: 158207803}
   - {fileID: 868275244}
   m_Father: {fileID: 0}
-  m_RootOrder: 5
+  m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1209046173
 GameObject:
@@ -7826,7 +7826,7 @@ MonoBehaviour:
   rotateLerpTime: 0.001
   scaleLerpTime: 0.001
   enableConstraints: 1
-  constraintsManager: {fileID: 1118038205}
+  constraintsManager: {fileID: 1299512330}
   elasticsManager: {fileID: 0}
   onManipulationStarted:
     m_PersistentCalls:
@@ -7990,7 +7990,7 @@ Transform:
   - {fileID: 1373674318}
   - {fileID: 64718905}
   m_Father: {fileID: 0}
-  m_RootOrder: 3
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1343367875
 GameObject:
@@ -8215,7 +8215,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1382310882
 Transform:
   m_ObjectHideFlags: 0
@@ -8895,7 +8895,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1580011288
 Transform:
   m_ObjectHideFlags: 0
@@ -9972,7 +9972,7 @@ GameObject:
   - component: {fileID: 2124641888}
   - component: {fileID: 2124641889}
   m_Layer: 0
-  m_Name: ExperienceStartUp
+  m_Name: MixedRealityExperienceStartUp
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -9990,7 +9990,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 6
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &2124641889
 MonoBehaviour:
@@ -10256,7 +10256,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: dd41db2cdb4e66e4985303e1287ab101, type: 2}
+  - {fileID: 2100000, guid: 4a219ac42c170dd45ac93aa9c99db28e, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -10295,7 +10295,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: dd41db2cdb4e66e4985303e1287ab101, type: 2}
+  - {fileID: 2100000, guid: ba3ff9dd21b41d749967b4db3becd1de, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -10334,7 +10334,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: dd41db2cdb4e66e4985303e1287ab101, type: 2}
+  - {fileID: 2100000, guid: 4a219ac42c170dd45ac93aa9c99db28e, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -10527,7 +10527,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: dd41db2cdb4e66e4985303e1287ab101, type: 2}
+  - {fileID: 2100000, guid: 4a219ac42c170dd45ac93aa9c99db28e, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -10566,7 +10566,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: dd41db2cdb4e66e4985303e1287ab101, type: 2}
+  - {fileID: 2100000, guid: 4a219ac42c170dd45ac93aa9c99db28e, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -10605,7 +10605,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: dd41db2cdb4e66e4985303e1287ab101, type: 2}
+  - {fileID: 2100000, guid: 4a219ac42c170dd45ac93aa9c99db28e, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -10644,7 +10644,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: dd41db2cdb4e66e4985303e1287ab101, type: 2}
+  - {fileID: 2100000, guid: ba3ff9dd21b41d749967b4db3becd1de, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -10688,7 +10688,7 @@ Transform:
   m_GameObject: {fileID: 3960447152635175695}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.1, y: 0.1, z: 0.1}
+  m_LocalScale: {x: 0.075, y: 0.075, z: 0.075}
   m_Children: []
   m_Father: {fileID: 1580011288}
   m_RootOrder: 1
@@ -10779,7 +10779,7 @@ GameObject:
   - component: {fileID: 2145928569}
   - component: {fileID: 2145928568}
   m_Layer: 0
-  m_Name: SM_PolygonPrototype_Primitive_Sphere_01P (2)
+  m_Name: SM_PolygonPrototype_Primitive_Sphere_01P
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -10800,7 +10800,7 @@ GameObject:
   - component: {fileID: 140831727}
   - component: {fileID: 140831728}
   m_Layer: 0
-  m_Name: SM_PolygonPrototype_Primitive_Sphere_01P (1)
+  m_Name: SM_PolygonPrototype_Primitive_Sphere_01P
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -10821,7 +10821,7 @@ GameObject:
   - component: {fileID: 1279908248}
   - component: {fileID: 1279908247}
   m_Layer: 0
-  m_Name: SM_PolygonPrototype_Primitive_Sphere_01P (2)
+  m_Name: SM_PolygonPrototype_Primitive_Sphere_01P
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -10843,7 +10843,7 @@ GameObject:
   - component: {fileID: 1118038204}
   - component: {fileID: 1118038205}
   m_Layer: 0
-  m_Name: SM_PolygonPrototype_Primitive_Sphere_01P (2)
+  m_Name: SM_PolygonPrototype_Primitive_Sphere_01P
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -10895,7 +10895,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: dd41db2cdb4e66e4985303e1287ab101, type: 2}
+  - {fileID: 2100000, guid: ba3ff9dd21b41d749967b4db3becd1de, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -10934,7 +10934,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: dd41db2cdb4e66e4985303e1287ab101, type: 2}
+  - {fileID: 2100000, guid: 4a219ac42c170dd45ac93aa9c99db28e, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -10980,7 +10980,7 @@ Transform:
   m_GameObject: {fileID: 5466234620758560086}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0.5}
-  m_LocalScale: {x: 0.1, y: 0.1, z: 0.1}
+  m_LocalScale: {x: 0.125, y: 0.125, z: 0.125}
   m_Children: []
   m_Father: {fileID: 158207803}
   m_RootOrder: 1
@@ -11014,7 +11014,7 @@ GameObject:
   - component: {fileID: 1255638494}
   - component: {fileID: 1255638493}
   m_Layer: 0
-  m_Name: SM_PolygonPrototype_Primitive_Sphere_01P (4)
+  m_Name: SM_PolygonPrototype_Primitive_Sphere_01P
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -11036,7 +11036,7 @@ GameObject:
   - component: {fileID: 1299512329}
   - component: {fileID: 1299512330}
   m_Layer: 0
-  m_Name: SM_PolygonPrototype_Primitive_Sphere_01P (3)
+  m_Name: SM_PolygonPrototype_Primitive_Sphere_01P
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
