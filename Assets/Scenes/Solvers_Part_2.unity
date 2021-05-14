@@ -885,7 +885,7 @@ PrefabInstance:
     - target: {fileID: 1290477944473604497, guid: a415518c4393bff4eb88ba79f6e4596b,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 1290477944473604497, guid: a415518c4393bff4eb88ba79f6e4596b,
         type: 3}
@@ -960,7 +960,7 @@ MonoBehaviour:
   maintainScaleOnInitialization: 1
   smoothing: 1
   lifetime: 0
-  autoStart: 0
+  autoStart: 1
   defaultPlacementDistance: 1.5
   maxRaycastDistance: 20
   surfaceNormalOffset: 0
@@ -993,7 +993,7 @@ MonoBehaviour:
   trackedHandness: 3
   trackedHandJoint: 2
   transformOverride: {fileID: 0}
-  additionalOffset: {x: 0, y: 0, z: 0.5}
+  additionalOffset: {x: 0, y: 0, z: 0}
   additionalRotation: {x: 0, y: 0, z: 0}
   updateSolvers: 1
 --- !u!1001 &763415165
@@ -1021,7 +1021,7 @@ PrefabInstance:
     - target: {fileID: 1290477944473604497, guid: a415518c4393bff4eb88ba79f6e4596b,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 1290477944473604497, guid: a415518c4393bff4eb88ba79f6e4596b,
         type: 3}
@@ -1096,7 +1096,7 @@ MonoBehaviour:
   maintainScaleOnInitialization: 1
   smoothing: 1
   lifetime: 0
-  autoStart: 0
+  autoStart: 1
   defaultPlacementDistance: 1.5
   maxRaycastDistance: 20
   surfaceNormalOffset: 0
@@ -1358,7 +1358,7 @@ PrefabInstance:
     - target: {fileID: 1290477944473604497, guid: ce94cd86a19800a449410f0d21ef3845,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 1290477944473604497, guid: ce94cd86a19800a449410f0d21ef3845,
         type: 3}

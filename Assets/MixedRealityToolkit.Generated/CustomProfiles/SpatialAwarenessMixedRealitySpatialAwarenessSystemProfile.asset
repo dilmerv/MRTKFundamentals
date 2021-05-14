@@ -22,9 +22,9 @@ MonoBehaviour:
     runtimePlatform: 8
     observerProfile: {fileID: 11400000, guid: 84b8def0db1471b44a0ce856f92c8f92, type: 2}
   - componentType:
-      reference: Microsoft.MixedReality.Toolkit.XRSDK.GenericXRSDKSpatialMeshObserver,
-        Microsoft.MixedReality.Toolkit.Providers.XRSDK
-    componentName: XR SDK Spatial Mesh Observer
+      reference: Microsoft.MixedReality.Toolkit.SpatialObjectMeshObserver.SpatialObjectMeshObserver,
+        Microsoft.MixedReality.Toolkit.Providers.ObjectMeshObserver
+    componentName: Spatial Object Mesh Observer
     priority: 0
-    runtimePlatform: 0
-    observerProfile: {fileID: 11400000, guid: c3fa649ae7e098146ba5d14c82fce8f5, type: 2}
+    runtimePlatform: 208
+    observerProfile: {fileID: 11400000, guid: 60e57a38f0e2d434d82a9c6934dab9d8, type: 2}
