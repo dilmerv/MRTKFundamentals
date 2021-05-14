@@ -27,4 +27,4 @@ MonoBehaviour:
     componentName: XR SDK Spatial Mesh Observer
     priority: 0
     runtimePlatform: 0
-    observerProfile: {fileID: 11400000, guid: 8be0bcd2117dd214da41ed98f0def2e3, type: 2}
+    observerProfile: {fileID: 11400000, guid: c3fa649ae7e098146ba5d14c82fce8f5, type: 2}

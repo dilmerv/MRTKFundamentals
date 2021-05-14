@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isCustomProfile: 1
   showDiagnostics: 1
-  showProfiler: 1
+  showProfiler: 0
   showFrameInfo: 1
   showMemoryStats: 1
   frameSampleRate: 0.1
