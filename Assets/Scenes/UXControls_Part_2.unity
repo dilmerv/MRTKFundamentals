@@ -3723,7 +3723,7 @@ GameObject:
   - component: {fileID: 1137384170}
   - component: {fileID: 1137384169}
   m_Layer: 0
-  m_Name: Spline ToolTip (1)
+  m_Name: Spline ToolTip
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4177,6 +4177,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4173365671867019191, guid: 2f59d5f172f307741b2acc32891f55f7,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 4866704118828588472, guid: 2f59d5f172f307741b2acc32891f55f7,
         type: 3}
       propertyPath: m_Name
@@ -4276,6 +4281,11 @@ PrefabInstance:
     - target: {fileID: 737138793104057063, guid: 2f59d5f172f307741b2acc32891f55f7,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4173365671867019191, guid: 2f59d5f172f307741b2acc32891f55f7,
+        type: 3}
+      propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4866704118828588472, guid: 2f59d5f172f307741b2acc32891f55f7,
@@ -7010,6 +7020,11 @@ PrefabInstance:
     - target: {fileID: 737138793104057063, guid: 2f59d5f172f307741b2acc32891f55f7,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4173365671867019191, guid: 2f59d5f172f307741b2acc32891f55f7,
+        type: 3}
+      propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4866704118828588472, guid: 2f59d5f172f307741b2acc32891f55f7,
